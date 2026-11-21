@@ -1,0 +1,32 @@
+[
+  {
+    "id": "demo-1",
+    "name": "Proyector demo",
+    "category": "Tecnología",
+    "loans": []
+  },
+  {
+    "id": "demo-2",
+    "name": "Juego de llaves demo",
+    "category": "Hogar",
+    "loans": [
+      {
+        "borrower": "Vecino demo",
+        "due": "2026-11-28",
+        "returned": false
+      }
+    ]
+  },
+  {
+    "id": "demo-3",
+    "name": "Caballetes demo",
+    "category": "Taller",
+    "loans": [
+      {
+        "borrower": "Equipo demo",
+        "due": "2026-11-19",
+        "returned": true
+      }
+    ]
+  }
+]

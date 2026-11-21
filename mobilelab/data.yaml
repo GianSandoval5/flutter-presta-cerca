@@ -1,0 +1,6 @@
+schema_version: 1
+resources:
+  items:
+    path: /api/items
+    id: id
+    seed: seeds/items.json

@@ -1,0 +1,44 @@
+{
+  "schema": 1,
+  "owner": "GianSandoval5",
+  "request": {
+    "framework": "flutter",
+    "repo_name": "flutter-presta-cerca",
+    "app_name": "presta_cerca",
+    "project_dir": "projects/presta-cerca",
+    "description": "Inventario y pr\u00e9stamos de objetos compartidos con Flutter y MobileLab SQLite."
+  },
+  "source_sha": "66aefd02c0030785f7e82e8c7aa74b5a223897f0",
+  "run_url": "https://github.com/GianSandoval5/mobile-ai-factory/actions/runs/44915938919",
+  "sdk": {
+    "frameworkVersion": "3.50.1",
+    "channel": "stable",
+    "repositoryUrl": "https://github.com/flutter/flutter.git",
+    "frameworkRevision": "ae9b586f34a8443573f82ef57c3bf914a908cbf7",
+    "frameworkCommitDate": "2026-11-18 17:01:07 -0800",
+    "engineRevision": "4d35714800b9266b6693a58e1225ecd7e9e45ed7",
+    "engineCommitDate": "2026-11-18 01:50:07.000Z",
+    "engineContentHash": "51379e6df48ea8ee7205623b90fe66491cad8df3",
+    "engineBuildDate": "2026-11-17 23:29:07.499",
+    "dartSdkVersion": "3.14.0",
+    "devToolsVersion": "2.61.0",
+    "flutterVersion": "3.50.1",
+    "flutterRoot": "/opt/hostedtoolcache/flutter/stable-3.50.1-x64/flutter"
+  },
+  "tests_passed": 10,
+  "coverage_lines": {
+    "hit": 264,
+    "found": 361
+  },
+  "analysis": "passed",
+  "build": {
+    "kind": "android-debug-apk",
+    "status": "passed"
+  },
+  "dependency_audit": {
+    "provider": "OSV",
+    "hosted_packages_checked": 31,
+    "vulnerabilities": []
+  },
+  "source_digest": "c96cddc98ee0e9ce0a3e62234ee2b8b6a6231f25a24b09a761e02ed266d36e67"
+}
